@@ -2,14 +2,14 @@
 
 # HTTP REQUESTS
 
-GET REQUEST
+<b>GET REQUEST</b>
 ```
 GET/ROOM HTTP/1.1
 Host: tryhackme.com
 User-Agent: Mozilla/5.0 Firefox/87.0
 Content-Length: 33
 ```
-Response:
+<b>Response:</b>
 ```
 HTTP/1.1 200 Ok
 Server: nginx/1.15.8
