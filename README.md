@@ -1,1 +1,7 @@
 # THM-WRITE-UPS
+
+#HTTP REQUESTS
+
+```
+WTF
+```
